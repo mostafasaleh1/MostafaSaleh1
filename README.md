@@ -11,7 +11,7 @@
   <img src="https://bnz05pap001files.storage.live.com/y4miWtXJ-MVH0LiU6egULQ5EsgOtYjNBlEtLw4Uq6TV1ieH7KeZMGN7uCztwlBwnQtJVAYHw3eTI0ZoZFJ3HB6Rxc6_AkhmBidhuU8Es1nIqdkhv24ml1-UyGW4foeIsipKY9VrnR27Le58HbmmoWeQGyHQQSp7w1EQzUwQpZpH0PBoCL1fjAuNyD9RLvXT63Lj?encodeFailures=1&width=640&height=640" align="right" width="25%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
-<div align="center">
+<div align="center" style="margin-right:20%;">
   
 ![mostafasaleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafasaleh1&show_icons=true&theme=radical&count_private=true)
 

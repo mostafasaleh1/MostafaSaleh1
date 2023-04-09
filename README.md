@@ -1,8 +1,8 @@
 <div style="display: flext; align-items:center;">
-  <div style="text-align:center;">
+  <div style="text-align:center; margin-bottom: 1%;">
 👋 Hi, I’m Mostafa Saleh<br>
 📫 How to reach me: MostafaSaleh2055@gmail.com , or https://eng-mostafasaleh.blogspot.com<br>
-📫 My blog: https://mostafasalehblog.blogspot.com<br>
+📫 My blog: https://mostafasalehblog.blogspot.com
   </div>
   
   

@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafasaleh1&count_private=true)](https://github.com/mostafasaleh1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafasaleh1&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mostafasaleh1/github-readme-stats)
 - 👋 Hi, I’m Mostafa Saleh
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning web developement on Udacity, Google it and Automation on Coursera.

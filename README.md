@@ -8,7 +8,7 @@
   
   </p>
   
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuasn1z76_mlhD4SViRuY9aEqDXunWE2zdFSWTIwUZA8yEx_k6Jc6da0RolswHoiGO2AOBszIdE3kOX8juSZdABcgPyN_5FfrjzDGOecO_GN3o9bziATjUP-Q2TdxlYywow6KzFfCwJ3B4m__UeIcV3IXMQA_j_IeG53g6RWPgyCwOlauR5mRnvuzRuA/s1600/1.jpg" align="right" width="25%" style="border-radius: 20px;"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEiF2z6L8BPvRr2x9Pdni2E279y1jrRf7JY0ltRcdOuqF5cbLYzlmiYmrvsgzkVYHZG0HkivfKxanmdcr2vgWgEwayG_uCJtsvFw_ApjdVfvf2pqWeGtGlAdNGNxUQJGDC5Nbmsz0iGCG5mVchbytiIo1zZruvDpqIK2_xdN1mK_MOL-hJ7edJ3jz91Q/s1600/1%20circle.png" align="right" width="25%" style="border-radius: 20px;"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS.
 <div align="center" style="margin-right:20%;">

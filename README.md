@@ -17,5 +17,5 @@ I'm a software developer who is passionate about creating technology to elevate 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostafasaleh1&theme=radical)](https://git.io/streak-stats)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1)](https://github.com/mostafasaleh1/github-readme-stats)    
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1)](https://github.com/mostafasaleh1/github-readme-stats)     -->
 </div>

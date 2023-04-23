@@ -25,12 +25,14 @@
     <!-- Statistics -->
     <div align="center">
 <div align="center" style="margin-right:20%;">
+<div width="50%" align="left">
   
 ![mostafasaleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafasaleh1&show_icons=true&theme=radical&count_private=true)
-
+</div>   
+<div width="50%" align="right">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostafasaleh1&theme=radical)](https://git.io/streak-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1)](https://github.com/mostafasaleh1/github-readme-stats)     -->
+</div>
+    <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1)](https://github.com/mostafasaleh1/github-readme-stats)     -->
 </div>
     </div>
 </div>

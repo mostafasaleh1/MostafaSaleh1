@@ -20,7 +20,7 @@
     <p align="center"><img src="https://profile-counter.glitch.me/{mostafasaleh1}/count.svg"
             alt="mostafasaleh1 :: Visitor's Count" />
     </p>
-<div align="right">
+<div align="right" width="30%">
 
 <a href="https://github.com/mostafasaleh1/mostafasaleh1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />

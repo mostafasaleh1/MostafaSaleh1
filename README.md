@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">Hi, I'm Mostafa Saleh 👋</h1>
 <p align="center">
     <a href="https://www.facebook.com/saleh2011" target="_blank"><img
@@ -19,9 +20,12 @@
     <p align="center"><img src="https://profile-counter.glitch.me/{mostafasaleh1}/count.svg"
             alt="mostafasaleh1 :: Visitor's Count" />
     </p>
-    <img align="right"
+
+        <img align="right"
         src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEiF2z6L8BPvRr2x9Pdni2E279y1jrRf7JY0ltRcdOuqF5cbLYzlmiYmrvsgzkVYHZG0HkivfKxanmdcr2vgWgEwayG_uCJtsvFw_ApjdVfvf2pqWeGtGlAdNGNxUQJGDC5Nbmsz0iGCG5mVchbytiIo1zZruvDpqIK2_xdN1mK_MOL-hJ7edJ3jz91Q/s1600/1%20circle.png"
         width="40%" />
+    
+    
     <!-- Statistics -->
     <div align="center">
 <div align="center">

@@ -21,7 +21,7 @@
     </p>
     <img align="right"
         src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEiF2z6L8BPvRr2x9Pdni2E279y1jrRf7JY0ltRcdOuqF5cbLYzlmiYmrvsgzkVYHZG0HkivfKxanmdcr2vgWgEwayG_uCJtsvFw_ApjdVfvf2pqWeGtGlAdNGNxUQJGDC5Nbmsz0iGCG5mVchbytiIo1zZruvDpqIK2_xdN1mK_MOL-hJ7edJ3jz91Q/s1600/1%20circle.png"
-        width="25%" />
+        width="50%" />
     <!-- Statistics -->
     <div align="center">
 <div align="center">

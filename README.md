@@ -35,12 +35,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostafasaleh1&theme=radical)](https://git.io/streak-stats)
 
 </div>
-<div>
 
 ![](https://raw.githubusercontent.com/mostafasaleh1/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
-    <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1)](https://github.com/mostafasaleh1/github-readme-stats)     -->
 </div>
-    </div>
 </div>

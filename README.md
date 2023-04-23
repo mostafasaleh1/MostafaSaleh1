@@ -20,13 +20,13 @@
     <p align="center"><img src="https://profile-counter.glitch.me/{mostafasaleh1}/count.svg"
             alt="mostafasaleh1 :: Visitor's Count" />
     </p>
-<div align="right" width="30%">
 
-<a href="https://github.com/mostafasaleh1/mostafasaleh1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/mostafasaleh1/mostafasaleh1" align="right">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-</div>
+<img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEiF2z6L8BPvRr2x9Pdni2E279y1jrRf7JY0ltRcdOuqF5cbLYzlmiYmrvsgzkVYHZG0HkivfKxanmdcr2vgWgEwayG_uCJtsvFw_ApjdVfvf2pqWeGtGlAdNGNxUQJGDC5Nbmsz0iGCG5mVchbytiIo1zZruvDpqIK2_xdN1mK_MOL-hJ7edJ3jz91Q/s1600/1%20circle.png" width="30%" />
+
 </div>
     
 <!-- Statistics -->
@@ -40,6 +40,13 @@
 <div align="left">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostafasaleh1&theme=radical)](https://git.io/streak-stats)
+
+</div>
+<div align="right">
+
+<a href="https://github.com/mostafasaleh1/mostafasaleh1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 </div>
 </div>

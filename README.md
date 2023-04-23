@@ -22,6 +22,7 @@
     </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="30%" />
+</a>
 
 </div>
     
@@ -39,7 +40,7 @@
 
 </div>
 
-  <img src='https://codestats-readme.wegfan.cn/history-graph/mostafasaleh2015?history_days=30&max_languages=15&grid_color=e8e8e8&text_color=dddddd&zeroline_color=ababab&bg_color=141321&language_colors=["fe428e", "00FF00", "0000FF", "FFFF00", "FF0000", "00FFFF", "800000", "008000", "000080", "808000", "800080", "008080", "808080", "C0C0C0", "FFFFFF"]' alt="Mostafa Saleh's Code::Stats history graph" />
+  <img src='https://codestats-readme.wegfan.cn/history-graph/mostafasaleh2015?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Mostafa Saleh's Code::Stats history graph" align="center" />
 
 </div>
 </div>

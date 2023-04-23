@@ -16,19 +16,17 @@
 <div align="center">
     <!-- Visitor Count -->
     <h4 align="center">Visitor's count :eyes:</h4>
-    <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg"
-            alt="AnhellO :: Visitor's Count" />
+    <p align="center"><img src="https://profile-counter.glitch.me/{mostafasaleh1}/count.svg"
+            alt="mostafasaleh1 :: Visitor's Count" />
     </p>
     <img align="right"
         src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEiF2z6L8BPvRr2x9Pdni2E279y1jrRf7JY0ltRcdOuqF5cbLYzlmiYmrvsgzkVYHZG0HkivfKxanmdcr2vgWgEwayG_uCJtsvFw_ApjdVfvf2pqWeGtGlAdNGNxUQJGDC5Nbmsz0iGCG5mVchbytiIo1zZruvDpqIK2_xdN1mK_MOL-hJ7edJ3jz91Q/s1600/1%20circle.png"
         width="25%" />
     <!-- Statistics -->
     <div align="center">
-        <div> ![mostafasaleh's GitHub
-            stats](https://github-readme-stats.vercel.app/api?username=mostafasaleh1&show_icons=true&theme=radical&count_private=true)
-        </div>
-        <div> [![GitHub
-            Streak](https://github-readme-streak-stats.herokuapp.com?user=mostafasaleh1&theme=radical)](https://git.io/streak-stats)
-        </div>
+        ![mostafasaleh's GitHub
+        stats](https://github-readme-stats.vercel.app/api?username=mostafasaleh1&show_icons=true&theme=radical&count_private=true)
+        [![GitHub
+        Streak](https://github-readme-streak-stats.herokuapp.com?user=mostafasaleh1&theme=radical)](https://git.io/streak-stats)
     </div>
 </div>

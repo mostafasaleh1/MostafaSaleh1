@@ -24,15 +24,20 @@
         width="25%" />
     <!-- Statistics -->
     <div align="center">
-<div align="center" style="margin-right:20%;">
-<div width="25%" align="left">
+<div align="center">
+<div align="left">
   
 ![mostafasaleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafasaleh1&show_icons=true&theme=radical&count_private=true)
 
 </div>   
-<div width="25%" align="left">
+<div align="left">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostafasaleh1&theme=radical)](https://git.io/streak-stats)
+
+</div>
+<div>
+
+![](https://raw.githubusercontent.com/mostafasaleh1/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
     <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1)](https://github.com/mostafasaleh1/github-readme-stats)     -->

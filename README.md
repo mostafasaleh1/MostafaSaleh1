@@ -42,4 +42,4 @@
 </div>
 </div>
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/mostafasaleh2015?history_days=30&max_languages=15&grid_color=e8e8e8&text_color=ffffff&zeroline_color=ababab&bg_color=141321&language_colors=["fe428e", "00FF00", "0000FF", "FFFF00", "FF0000", "00FFFF", "800000", "008000", "000080", "808000", "800080", "008080", "808080", "C0C0C0", "FFFFFF"])
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/username?grid_color=e8e8e8&text_color=666666&zeroline_color=ababab&language_colors=["red","green","blue"])

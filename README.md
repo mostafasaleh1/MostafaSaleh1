@@ -38,8 +38,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostafasaleh1&theme=radical)](https://git.io/streak-stats)
 
 </div>
-</div>
-</div>
-</div>
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/username?grid_color=e8e8e8&text_color=666666&zeroline_color=ababab&language_colors=["red","green","blue"])
+<a href="https://codestats.net/users/WEGFan" align="center">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
+</a>
+
+</div>
+</div>
+</div>

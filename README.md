@@ -43,7 +43,7 @@
 
 </div>
 
- <img src='https://codestats-readme.wegfan.cn/history-graph/mostafasaleh2015?width=900&height=350&timezone=02:00&history_days=21&max_languages=9&grid_color=dddddd&text_color=dddddd&zeroline_color=ababab&bg_color=141321&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Mostafa Saleh's Code::Stats history graph" align="center" />
+ <img src='https://codestats-readme.wegfan.cn/history-graph/mostafasaleh2015?width=900&height=350&timezone=02:00&history_days=21&max_languages=9&grid_color=dddddd&text_color=dddddd&zeroline_color=ababab&bg_color=141321&language_colors=["ff0000","00ff00","0000ff","ffff00","ff00ff","00ffff","800000","008000","000080","808000"]' alt="Mostafa Saleh's Code::Stats history graph" align="center" />
 
 </div>
 </div>

@@ -35,9 +35,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostafasaleh1&theme=radical)](https://git.io/streak-stats)
 
 </div>
-
-![](https://raw.githubusercontent.com/mostafasaleh1/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
+<iframe src="https://mostafasaleh1.github.io/myprofile" width="100%" height="100%" frameborder="1"></iframe>
 </div>
 </div>
 </div>

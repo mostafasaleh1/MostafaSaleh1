@@ -2,7 +2,7 @@
 
 <p align="center" >
   <a href="https://mostafasaleh1.github.io/myprofile">
-    <img src="https://user-images.githubusercontent.com/59813937/234151531-099978f1-98ca-40a0-9e7c-d8c417be2da2.png" alt="Mostafa Saleh" width="200px" height="25px" /></a>
+    <img src="https://user-images.githubusercontent.com/59813937/234151531-099978f1-98ca-40a0-9e7c-d8c417be2da2.png" alt="Mostafa Saleh" width="400px" height="60px" /></a>
 </p>
 
 <p align="center">

@@ -1,11 +1,11 @@
 <div>
 
 <p align="center">
-  <a href="https://mostafasaleh1.github.io/myprofile" width="300px" height="40px">
+  <a href="https://mostafasaleh1.github.io/myprofile" width="200px" height="25px">
     <img src="https://user-images.githubusercontent.com/59813937/234151531-099978f1-98ca-40a0-9e7c-d8c417be2da2.png" alt="Mostafa Saleh" /></a>
 </p>
 
-<a href="https://mostafasaleh1.github.io/myprofile"><img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Software+Engineer;Frontend+Developer;Always+learning+new+things;Currently+studying+AWS" alt="Mostafa Saleh" /></a>
+<a href="https://mostafasaleh1.github.io/myprofile" align="center"><img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Software+Engineer;Frontend+Developer;Always+learning+new+things;Currently+studying+AWS" alt="Mostafa Saleh" /></a>
 
 <!-- Social icons section -->
 <p align="center">

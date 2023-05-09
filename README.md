@@ -49,7 +49,7 @@
 </div>
 <div align="left">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostafasaleh1&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mostafasaleh1&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 <a href="https://codestats.net/users/mostafasaleh2015">

@@ -44,7 +44,7 @@
 <div align="center">
 <div align="left">
   
-![mostafasaleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafasaleh1&show_icons=true&theme=radical&count_private=true)
+![MostafaSaleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafasaleh1&show_icons=true&theme=radical&count_private=true)
 
 </div>
 <div align="left">

@@ -36,10 +36,7 @@
 <a href="https://mostafasaleh1.github.io/myprofile">
    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEiF2z6L8BPvRr2x9Pdni2E279y1jrRf7JY0ltRcdOuqF5cbLYzlmiYmrvsgzkVYHZG0HkivfKxanmdcr2vgWgEwayG_uCJtsvFw_ApjdVfvf2pqWeGtGlAdNGNxUQJGDC5Nbmsz0iGCG5mVchbytiIo1zZruvDpqIK2_xdN1mK_MOL-hJ7edJ3jz91Q/s1600/1%20circle.png" align="right" width="30%"/>
 </a>
-<!--
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="30%" />
-</a>
--->
+
 </div>
     
 <!-- Statistics -->

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://mostafasaleh1.github.io/myprofile"><img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things;Currently+studying+MCSA" alt="Mostafa Saleh" /></a>
+<a href="https://mostafasaleh1.github.io/myprofile"><img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Network+Engineer;Always+learning+new+things;Currently+studying+MCSA" alt="Mostafa Saleh" /></a>
 </p>
 
 <!-- Social icons section -->

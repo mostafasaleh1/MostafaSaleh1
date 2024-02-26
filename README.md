@@ -1,12 +1,12 @@
 <div>
 
 <p align="center" >
-  <a href="https://mostafasaleh1.github.io/myprofile">
+  <a href="https://mostafasaleh1.github.io">
     <img src="https://user-images.githubusercontent.com/59813937/234151531-099978f1-98ca-40a0-9e7c-d8c417be2da2.png" alt="Mostafa Saleh" width="400px" height="60px" /></a>
 </p>
 
 <p align="center">
-<a href="https://mostafasaleh1.github.io/myprofile"><img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Network+Engineer;Always+learning+new+things;Currently+studying+MCSA" alt="Mostafa Saleh" /></a>
+<a href="https://mostafasaleh1.github.io"><img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Network+Engineer;Always+learning+new+things;Currently+studying+MCSA" alt="Mostafa Saleh" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -17,7 +17,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/mostafasaleh5" alt="Linkedin" title="Linkedin"><img width="32px" src="https://user-images.githubusercontent.com/59813937/234152096-a073220d-b5ab-43cb-8c79-29f8728cdd81.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://mostafasaleh1.github.io/myprofile"><img width="32px" alt="My Website" title="My Website" src="https://user-images.githubusercontent.com/59813937/234152129-d1e2067e-14bf-4d32-a29e-14c65f9c33c8.png"></a>
+  <a href="https://mostafasaleh1.github.io"><img width="32px" alt="My Website" title="My Website" src="https://user-images.githubusercontent.com/59813937/234152129-d1e2067e-14bf-4d32-a29e-14c65f9c33c8.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:most.saleh@hotmail.com"><img width="32px" alt="Mail" title="Mail" src="https://user-images.githubusercontent.com/59813937/234151856-09f243a3-d6e4-4072-a8b6-f34cb135e00a.png"/></a>
 </p>
@@ -33,7 +33,7 @@
     <p align="center"><img src="https://profile-counter.glitch.me/{mostafasaleh1}/count.svg"
             alt="mostafasaleh1 :: Visitor's Count" />
     </p>
-<a href="https://mostafasaleh1.github.io/myprofile">
+<a href="https://mostafasaleh1.github.io">
    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEiF2z6L8BPvRr2x9Pdni2E279y1jrRf7JY0ltRcdOuqF5cbLYzlmiYmrvsgzkVYHZG0HkivfKxanmdcr2vgWgEwayG_uCJtsvFw_ApjdVfvf2pqWeGtGlAdNGNxUQJGDC5Nbmsz0iGCG5mVchbytiIo1zZruvDpqIK2_xdN1mK_MOL-hJ7edJ3jz91Q/s1600/1%20circle.png" align="right" width="35%"/>
 </a>
 

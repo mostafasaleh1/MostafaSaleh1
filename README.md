@@ -24,9 +24,7 @@
 
 <br/>
 
-<p width="50%">I'm a software developer who is passionate about creating technology to elevate people and help new
-    developers to find
-    the right path. Some technologies I enjoy working with include Javascript, ReactJS.</p>
+<p width="50%">Highly-motivated Computer Engineering graduate. Seeking a dynamic role in Network Engineering that provides opportunities for growth, continuous learning, and collaboration. My key interests include IT Infrastructure, Network & Cloud Architecture, System Administration, Protocols, and Network Security.</p>
 <div align="center">
     <!-- Visitor Count -->
     <h4 align="center">Visitor's count :eyes:</h4>
